@@ -1,4 +1,4 @@
-# API BIOPLATE
+# EXPRESS-API-BOILERPLATE
 This demo is created for reduce time developers who want to create API. 
 It also has library to help developers to connect firebase and MongoDB.
 
