@@ -1,0 +1,13 @@
+
+{
+  "users" : [ 
+    {
+      "clientId" : 1,
+      "clientName":"Demo Test 01",
+      "email":"test@exaple.com",
+      "password":"$2a$08$/5sCH5sIii9RBIEj22sjxO7nDVGah5Unn4OKxfXNvajg3.WfnHmXy",
+      "createdAt":"2020-01-01T17:03:53.728Z"
+    }
+  ]
+  
+}

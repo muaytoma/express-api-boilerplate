@@ -1,0 +1,13 @@
+{
+  "whitelist": ["http://127.0.0.1:8080","http://localhost:8080"],
+  "secretKey" : {
+    "accessToken" : "SP69kXFR3znRi7kL8Max2GTB24wOtEQj",
+    "login" : "e0fe291981ce6ac29057b3f2"
+  },
+  "firebase": {
+  },
+  "mongo":{
+    "URI" : "",
+    "DATABASE" : ""
+  }
+}
